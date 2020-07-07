@@ -1,3 +1,1 @@
-https://www.jianshu.com/p/5a988fd00f58     ECMAScript新特性
-https://www.jianshu.com/p/b5890a683cbe     javaScript异步编程
-https://www.jianshu.com/p/0a82093c8d26     TypeScript语言
+https://www.jianshu.com/p/de523d78e655     webpack
